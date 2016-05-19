@@ -3,7 +3,8 @@
 //  SDWebImage
 //
 //  Created by Olivier Poitrey on 11/12/12.
-//  Copyright (c) 2012 Dailymotion. All rights reserved.
+//  Copyright (c) 2012 Dailymotion. All rights reserved
+// 啊哈哈哈哈啊
 //
 
 #import "SDWebImageCompat.h"
